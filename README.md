@@ -160,7 +160,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 
 ## OUTPUT:
-![Output](./Screenshot%20from%202023-11-29%2015-33-29.png)
+![Output](https://github.com/dharshini-29/serversideprocessing/assets/147474632/d9d8bc2c-92bb-452a-bb06-6b4b6ef54d21)
+
 
 
 
